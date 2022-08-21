@@ -1,0 +1,6 @@
+tweepy
+python-decouple
+arxiv
+rmapy
+notion_df
+pandas
